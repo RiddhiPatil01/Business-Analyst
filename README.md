@@ -6,6 +6,7 @@ Business Analysis Portfolio — includes end-to-end analytical projects where I 
 This project showcases end-to-end business analysis of an E-Commerce dataset.  
 I created relevant business questions, analyzed the data using **SQL**, and visualized the insights through an interactive **Power BI dashboard**.
 
+
 ---
 
 ## 🎯 Objectives
